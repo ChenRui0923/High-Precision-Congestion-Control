@@ -1,0 +1,38 @@
+var classns3_1_1_test_case =
+[
+    [ "Result", "structns3_1_1_test_case_1_1_result.html", "structns3_1_1_test_case_1_1_result" ],
+    [ "TestDuration", "classns3_1_1_test_case.html#a11f6f57c21a0d32e605d192a89550f91", [
+      [ "QUICK", "classns3_1_1_test_case.html#a11f6f57c21a0d32e605d192a89550f91ac2f47fb646e77f4ce7d662a69120965f", null ],
+      [ "EXTENSIVE", "classns3_1_1_test_case.html#a11f6f57c21a0d32e605d192a89550f91a52858a023576ded5148030f08c1c2419", null ],
+      [ "TAKES_FOREVER", "classns3_1_1_test_case.html#a11f6f57c21a0d32e605d192a89550f91a88f5459fbc31d63d7cadbbf69e604898", null ]
+    ] ],
+    [ "~TestCase", "classns3_1_1_test_case.html#a7dff94a25826501614a2245e52427055", null ],
+    [ "TestCase", "classns3_1_1_test_case.html#a3b0b91a96aac1933e8d146e019b9e207", null ],
+    [ "TestCase", "classns3_1_1_test_case.html#a26ff554dae5e2de8026d7e1fbad68903", null ],
+    [ "AddTestCase", "classns3_1_1_test_case.html#a00ef9a039942c6bbaf427516bdb49863", null ],
+    [ "AddTestCase", "classns3_1_1_test_case.html#a3718088e3eefd5d6454569d2e0ddd835", null ],
+    [ "CreateDataDirFilename", "classns3_1_1_test_case.html#a3e4d216ff392a43418f26bb3e5b0f16d", null ],
+    [ "CreateTempDirFilename", "classns3_1_1_test_case.html#a8a04695a6fb9ba0f89e28e9523963f88", null ],
+    [ "DoRun", "classns3_1_1_test_case.html#a8ff74680cf017ed42011e4be51917a24", null ],
+    [ "DoSetup", "classns3_1_1_test_case.html#a4a7e32ad32a10a508910815cd38e9177", null ],
+    [ "DoTeardown", "classns3_1_1_test_case.html#a8917f1604e28d312a8086f76291e3c46", null ],
+    [ "GetErrorStatus", "classns3_1_1_test_case.html#ab638d1f80387c1edab888606d9326784", null ],
+    [ "GetName", "classns3_1_1_test_case.html#a28f7bb59669c24dae1c290fc17fc9b62", null ],
+    [ "IsFailed", "classns3_1_1_test_case.html#a7b8273bd67aad00c3afe709628522576", null ],
+    [ "IsStatusFailure", "classns3_1_1_test_case.html#a84802776ad3c5810765c720f13116ed6", null ],
+    [ "IsStatusSuccess", "classns3_1_1_test_case.html#a76d97c8d3aadccc6231e50d863cde388", null ],
+    [ "MustAssertOnFailure", "classns3_1_1_test_case.html#ae1d931b18ca994ed0f9630d4e4d8f4e3", null ],
+    [ "MustContinueOnFailure", "classns3_1_1_test_case.html#a1e0cc9f95a47dbac232068396bb0bd80", null ],
+    [ "operator=", "classns3_1_1_test_case.html#ab22a792987357c05ae6fd731de453175", null ],
+    [ "ReportTestFailure", "classns3_1_1_test_case.html#ae4e7f95365ee7b7c152176d9b8de3718", null ],
+    [ "Run", "classns3_1_1_test_case.html#abd20623e3e8fcb6bd4ec69e93f32f621", null ],
+    [ "SetDataDir", "classns3_1_1_test_case.html#ab002fb0e5071fcde71a92ca9e8224b23", null ],
+    [ "TestRunnerImpl", "classns3_1_1_test_case.html#adebd005c0c7c24af2016237d7b6768f9", null ],
+    [ "m_children", "classns3_1_1_test_case.html#a69a286c12a0d13ba6ea0968d4ffb7058", null ],
+    [ "m_dataDir", "classns3_1_1_test_case.html#a204d14ebe231588cf07d0dae9b56015a", null ],
+    [ "m_duration", "classns3_1_1_test_case.html#a1437486460786c4bcb6ec5c45e067d9e", null ],
+    [ "m_name", "classns3_1_1_test_case.html#a0f7ecafa1c9cc538059169767453e4a4", null ],
+    [ "m_parent", "classns3_1_1_test_case.html#a4b95b61d64e754a7e5720d1271e26b54", null ],
+    [ "m_result", "classns3_1_1_test_case.html#addac5c48ae1626b527bb7d87155d2b4b", null ],
+    [ "m_runner", "classns3_1_1_test_case.html#a8baa7a1fedd4916eb63c45a7597de67a", null ]
+];

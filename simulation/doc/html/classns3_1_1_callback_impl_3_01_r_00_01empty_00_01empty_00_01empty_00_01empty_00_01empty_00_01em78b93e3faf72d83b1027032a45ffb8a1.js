@@ -1,0 +1,5 @@
+var classns3_1_1_callback_impl_3_01_r_00_01empty_00_01empty_00_01empty_00_01empty_00_01empty_00_01em78b93e3faf72d83b1027032a45ffb8a1 =
+[
+    [ "~CallbackImpl", "classns3_1_1_callback_impl_3_01_r_00_01empty_00_01empty_00_01empty_00_01empty_00_01empty_00_01em78b93e3faf72d83b1027032a45ffb8a1.html#a99d2e22a444a46ef48fba02810e359ec", null ],
+    [ "operator()", "classns3_1_1_callback_impl_3_01_r_00_01empty_00_01empty_00_01empty_00_01empty_00_01empty_00_01em78b93e3faf72d83b1027032a45ffb8a1.html#af0582f8941c97d57623ee2b42993bd85", null ]
+];

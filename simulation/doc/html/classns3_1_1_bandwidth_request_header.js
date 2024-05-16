@@ -1,0 +1,35 @@
+var classns3_1_1_bandwidth_request_header =
+[
+    [ "HeaderType", "classns3_1_1_bandwidth_request_header.html#abbaf4abd8f160828930369dff9a3d657", [
+      [ "HEADER_TYPE_INCREMENTAL", "classns3_1_1_bandwidth_request_header.html#abbaf4abd8f160828930369dff9a3d657aec4eaf7a3d70d48c897447b9ee676b7b", null ],
+      [ "HEADER_TYPE_AGGREGATE", "classns3_1_1_bandwidth_request_header.html#abbaf4abd8f160828930369dff9a3d657ab6d7315b06d931e9c2db56f749a7d337", null ]
+    ] ],
+    [ "BandwidthRequestHeader", "classns3_1_1_bandwidth_request_header.html#aad68bc2ddb2b2d152d32166904d35d69", null ],
+    [ "~BandwidthRequestHeader", "classns3_1_1_bandwidth_request_header.html#ac27100b70323ab96e94c1f818ea584fd", null ],
+    [ "check_hcs", "classns3_1_1_bandwidth_request_header.html#ade8bb691fdd8ec033ecb499e477f3eae", null ],
+    [ "Deserialize", "classns3_1_1_bandwidth_request_header.html#a12a0c737b169d284852dfdf65f422e51", null ],
+    [ "GetBr", "classns3_1_1_bandwidth_request_header.html#a975465988d3440b9cd5123502b71362e", null ],
+    [ "GetCid", "classns3_1_1_bandwidth_request_header.html#aef8443021e9756bfa1029110d29a7aba", null ],
+    [ "GetEc", "classns3_1_1_bandwidth_request_header.html#a4ed163106a21178803264f00c4f2ce35", null ],
+    [ "GetHcs", "classns3_1_1_bandwidth_request_header.html#a8b3ff6958eb138764227ed13e5af2d30", null ],
+    [ "GetHt", "classns3_1_1_bandwidth_request_header.html#a0a877e97a910346e9d4125b2bd19d961", null ],
+    [ "GetInstanceTypeId", "classns3_1_1_bandwidth_request_header.html#a95f73631b603238b5b4f37763363bd83", null ],
+    [ "GetName", "classns3_1_1_bandwidth_request_header.html#a53f82865e8cb2115921fed17d0982644", null ],
+    [ "GetSerializedSize", "classns3_1_1_bandwidth_request_header.html#aacdb41e163b0cedb61b2abdf705c9b3e", null ],
+    [ "GetType", "classns3_1_1_bandwidth_request_header.html#abb8fb3cbf325bc824fe5f2aec3142385", null ],
+    [ "Print", "classns3_1_1_bandwidth_request_header.html#a57b70fb7f29956dede9e848a24d8edb9", null ],
+    [ "Serialize", "classns3_1_1_bandwidth_request_header.html#a0a14347ab5e5b165cfd52db3c018edf6", null ],
+    [ "SetBr", "classns3_1_1_bandwidth_request_header.html#a26d7323dc1c4d9c9a246f2717080f396", null ],
+    [ "SetCid", "classns3_1_1_bandwidth_request_header.html#aa8e5dd0baddf49a56df26244b6aceecb", null ],
+    [ "SetEc", "classns3_1_1_bandwidth_request_header.html#a2fb1fbad0be2bdc830aa798e571f9fb4", null ],
+    [ "SetHcs", "classns3_1_1_bandwidth_request_header.html#a83cda5c3a4bbe58e8124f03018820403", null ],
+    [ "SetHt", "classns3_1_1_bandwidth_request_header.html#a69f7348f9c9df6cd9b164fce0b1ee41b", null ],
+    [ "SetType", "classns3_1_1_bandwidth_request_header.html#a3b6bd3b18d10a9593bafd06e709851ca", null ],
+    [ "c_hcs", "classns3_1_1_bandwidth_request_header.html#a58a8219646d0c9055de4931cccdc0a95", null ],
+    [ "m_br", "classns3_1_1_bandwidth_request_header.html#aaf45b47717a872f2cce8d64791d79cc6", null ],
+    [ "m_cid", "classns3_1_1_bandwidth_request_header.html#aea0cd9244c65e015ca03d4139d8cef62", null ],
+    [ "m_ec", "classns3_1_1_bandwidth_request_header.html#a015f61b40a1d73ed35d84a9cbe182e86", null ],
+    [ "m_hcs", "classns3_1_1_bandwidth_request_header.html#a5d7b69f1290ad7762292a556d7f1687d", null ],
+    [ "m_ht", "classns3_1_1_bandwidth_request_header.html#aa3c091baf3692d41a367aead455bbe8e", null ],
+    [ "m_type", "classns3_1_1_bandwidth_request_header.html#acbf2b6dc3bfefc47d08cf6edc673ec97", null ]
+];

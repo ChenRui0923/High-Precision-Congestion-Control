@@ -1,0 +1,25 @@
+var classns3_1_1_icmpv4_destination_unreachable =
+[
+    [ "NET_UNREACHABLE", "classns3_1_1_icmpv4_destination_unreachable.html#a16632dcc5a1444f9fc7fa2e9bf500033ae685fba07cef8e2403014ad280489d4e", null ],
+    [ "HOST_UNREACHABLE", "classns3_1_1_icmpv4_destination_unreachable.html#a16632dcc5a1444f9fc7fa2e9bf500033a1b929462040f41878c297a39dc085045", null ],
+    [ "PROTOCOL_UNREACHABLE", "classns3_1_1_icmpv4_destination_unreachable.html#a16632dcc5a1444f9fc7fa2e9bf500033aa0ea06d030c7bcfdc85c63a4a830ed14", null ],
+    [ "PORT_UNREACHABLE", "classns3_1_1_icmpv4_destination_unreachable.html#a16632dcc5a1444f9fc7fa2e9bf500033a38a797468589b2384647211898a4b1a0", null ],
+    [ "FRAG_NEEDED", "classns3_1_1_icmpv4_destination_unreachable.html#a16632dcc5a1444f9fc7fa2e9bf500033aed86f58801bc08f0d218589e6a875442", null ],
+    [ "SOURCE_ROUTE_FAILED", "classns3_1_1_icmpv4_destination_unreachable.html#a16632dcc5a1444f9fc7fa2e9bf500033a9b3f381a4a0999ac67b6755abe73a75f", null ],
+    [ "Icmpv4DestinationUnreachable", "classns3_1_1_icmpv4_destination_unreachable.html#ae9b0b915f289ba0f9ed17c326647c5e2", null ],
+    [ "~Icmpv4DestinationUnreachable", "classns3_1_1_icmpv4_destination_unreachable.html#a4a5153612da829907258e2374b3e7ff5", null ],
+    [ "Deserialize", "classns3_1_1_icmpv4_destination_unreachable.html#ab27e34a3e2436724ebb483d8acd58ea7", null ],
+    [ "GetData", "classns3_1_1_icmpv4_destination_unreachable.html#ab105e0bf088db1d45495212b39525b56", null ],
+    [ "GetHeader", "classns3_1_1_icmpv4_destination_unreachable.html#a85694c94143f9280fbf66caff7c3e320", null ],
+    [ "GetInstanceTypeId", "classns3_1_1_icmpv4_destination_unreachable.html#af7529cd7d02e8e81237dd41420859c1f", null ],
+    [ "GetNextHopMtu", "classns3_1_1_icmpv4_destination_unreachable.html#a22bb66fae51b5c2fe442c23783e3a57c", null ],
+    [ "GetSerializedSize", "classns3_1_1_icmpv4_destination_unreachable.html#a6f84f900bc7bf2f25109dd75374a0ec4", null ],
+    [ "Print", "classns3_1_1_icmpv4_destination_unreachable.html#ae5a10aa0c58e4a8db0155480b5cbd6a3", null ],
+    [ "Serialize", "classns3_1_1_icmpv4_destination_unreachable.html#a38e6b156675363e4af25597181b4d6c7", null ],
+    [ "SetData", "classns3_1_1_icmpv4_destination_unreachable.html#aba3d3f5a490235934b6b70ca19793dcc", null ],
+    [ "SetHeader", "classns3_1_1_icmpv4_destination_unreachable.html#a8e441092f77a8d1616731fe459fca7c4", null ],
+    [ "SetNextHopMtu", "classns3_1_1_icmpv4_destination_unreachable.html#a673a9de9f51498a1e23c3972654668cf", null ],
+    [ "m_data", "classns3_1_1_icmpv4_destination_unreachable.html#ae80e076547ebaa5141f1ea58db478981", null ],
+    [ "m_header", "classns3_1_1_icmpv4_destination_unreachable.html#a0cb91f22d5d2eada96abf2a9a9a31999", null ],
+    [ "m_nextHopMtu", "classns3_1_1_icmpv4_destination_unreachable.html#a2619d7ba764eab941ee90343cd4f8395", null ]
+];

@@ -1,0 +1,27 @@
+var classns3_1_1_min_max_avg_total_calculator =
+[
+    [ "MinMaxAvgTotalCalculator", "classns3_1_1_min_max_avg_total_calculator.html#a1e435bea694215748e277af4853a8c21", null ],
+    [ "~MinMaxAvgTotalCalculator", "classns3_1_1_min_max_avg_total_calculator.html#a32fd880a020a2ab29ae1fe107d1c5292", null ],
+    [ "DoDispose", "classns3_1_1_min_max_avg_total_calculator.html#a6552390161b48826a909483dfdc010e1", null ],
+    [ "getCount", "classns3_1_1_min_max_avg_total_calculator.html#a8f614c4a6a090665a75cea91a68d4486", null ],
+    [ "getMax", "classns3_1_1_min_max_avg_total_calculator.html#afb4430b9969e6acc05849bb9df444105", null ],
+    [ "getMean", "classns3_1_1_min_max_avg_total_calculator.html#aba502282a75bae4c6f2f8f6fdc872cfe", null ],
+    [ "getMin", "classns3_1_1_min_max_avg_total_calculator.html#a6a506061da906ea3a1262a5f0394d68e", null ],
+    [ "getSqrSum", "classns3_1_1_min_max_avg_total_calculator.html#a5f7ce191a74642f91590ede3c5c0315a", null ],
+    [ "getStddev", "classns3_1_1_min_max_avg_total_calculator.html#a7dfbeb8a90ff11304b32df5f1b49482a", null ],
+    [ "getSum", "classns3_1_1_min_max_avg_total_calculator.html#ae18def40cc95735a4059b8aefb7ba827", null ],
+    [ "getVariance", "classns3_1_1_min_max_avg_total_calculator.html#a3dbf06a0a31cdab9dd780a6f263f6a55", null ],
+    [ "Output", "classns3_1_1_min_max_avg_total_calculator.html#a18ad9d739106b8cdb36282c6e1d548f8", null ],
+    [ "Reset", "classns3_1_1_min_max_avg_total_calculator.html#a55f39b9cbe41f5ad31c9e37941334bc9", null ],
+    [ "Update", "classns3_1_1_min_max_avg_total_calculator.html#acad1745a8441535648ae95c7037a96e1", null ],
+    [ "m_count", "classns3_1_1_min_max_avg_total_calculator.html#a6bbdda90ca99cd6188edd12cac6c67f2", null ],
+    [ "m_max", "classns3_1_1_min_max_avg_total_calculator.html#a70efcbd101164de6bdc00a33fd1e99ed", null ],
+    [ "m_meanCurr", "classns3_1_1_min_max_avg_total_calculator.html#af44053de695179f32d0ae94fba0d49b4", null ],
+    [ "m_meanPrev", "classns3_1_1_min_max_avg_total_calculator.html#aedba5cd8e01f5f85b3f092943f21a024", null ],
+    [ "m_min", "classns3_1_1_min_max_avg_total_calculator.html#a2355225c9e982b436171f46702538489", null ],
+    [ "m_sCurr", "classns3_1_1_min_max_avg_total_calculator.html#a8e6d192daf13e180b5445b41b2dd9434", null ],
+    [ "m_sPrev", "classns3_1_1_min_max_avg_total_calculator.html#afaae4416144cd1c12770677913e3cb01", null ],
+    [ "m_squareTotal", "classns3_1_1_min_max_avg_total_calculator.html#a07c13a50a6e7c3eaa5b9d75f804416aa", null ],
+    [ "m_total", "classns3_1_1_min_max_avg_total_calculator.html#ad6b9ad4019cc7156bde6692d6b898c6a", null ],
+    [ "m_varianceCurr", "classns3_1_1_min_max_avg_total_calculator.html#a11c6ec89fb897ab33c4dc6169739fbfd", null ]
+];

@@ -1,0 +1,25 @@
+var classns3_1_1_ofdm_downlink_frame_prefix =
+[
+    [ "OfdmDownlinkFramePrefix", "classns3_1_1_ofdm_downlink_frame_prefix.html#ae60d69adbc7b159ea8ff557d880a4268", null ],
+    [ "~OfdmDownlinkFramePrefix", "classns3_1_1_ofdm_downlink_frame_prefix.html#a0ce1591f8e4b4be163c8033bc7b44b05", null ],
+    [ "AddDlFramePrefixElement", "classns3_1_1_ofdm_downlink_frame_prefix.html#aa1d561299ef8d2a1e9754c6956e79764", null ],
+    [ "Deserialize", "classns3_1_1_ofdm_downlink_frame_prefix.html#af73288c0b2ca162f5006cfc44b27e762", null ],
+    [ "GetBaseStationId", "classns3_1_1_ofdm_downlink_frame_prefix.html#a009c6258aab49b2a46dd513af4c1003f", null ],
+    [ "GetConfigurationChangeCount", "classns3_1_1_ofdm_downlink_frame_prefix.html#a53c74c02db26cadc009b73a7eafb45ea", null ],
+    [ "GetDlFramePrefixElements", "classns3_1_1_ofdm_downlink_frame_prefix.html#ab2440453f8f4b3192ce46668b832b76a", null ],
+    [ "GetFrameNumber", "classns3_1_1_ofdm_downlink_frame_prefix.html#a423bdaeee5c081c9f2e26c849ad9a934", null ],
+    [ "GetHcs", "classns3_1_1_ofdm_downlink_frame_prefix.html#a5655545e19525a32febd2a68e6a8029e", null ],
+    [ "GetName", "classns3_1_1_ofdm_downlink_frame_prefix.html#aec061fb60199d672ecf9fbc2e6a9ec65", null ],
+    [ "GetSerializedSize", "classns3_1_1_ofdm_downlink_frame_prefix.html#abab3082b79a2000370268e9d60735aa1", null ],
+    [ "Print", "classns3_1_1_ofdm_downlink_frame_prefix.html#a4a27657052480e2ea361f3b3dff8a998", null ],
+    [ "Serialize", "classns3_1_1_ofdm_downlink_frame_prefix.html#a8347d0fd9a7ca40b2a4fbe004400f44c", null ],
+    [ "SetBaseStationId", "classns3_1_1_ofdm_downlink_frame_prefix.html#ab80ba044570c8ccd59d60a4598277914", null ],
+    [ "SetConfigurationChangeCount", "classns3_1_1_ofdm_downlink_frame_prefix.html#a3f520c9c7067cc88f91e535a890023da", null ],
+    [ "SetFrameNumber", "classns3_1_1_ofdm_downlink_frame_prefix.html#a423e932c6fa33ff0ef839e4b16932077", null ],
+    [ "SetHcs", "classns3_1_1_ofdm_downlink_frame_prefix.html#ae8924183a120a04c2bb0c0dcbc0918c2", null ],
+    [ "m_baseStationId", "classns3_1_1_ofdm_downlink_frame_prefix.html#a7b67a172f45eb5c21475fae2b1ccadc0", null ],
+    [ "m_configurationChangeCount", "classns3_1_1_ofdm_downlink_frame_prefix.html#a46c640590dd0d172932b724d951408e4", null ],
+    [ "m_dlFramePrefixElements", "classns3_1_1_ofdm_downlink_frame_prefix.html#a5556a09adf1ba07c0ff0d024c163ea8e", null ],
+    [ "m_frameNumber", "classns3_1_1_ofdm_downlink_frame_prefix.html#a000a256bcb20f919dae6c434205f7c6d", null ],
+    [ "m_hcs", "classns3_1_1_ofdm_downlink_frame_prefix.html#a886434776ca438227fbb61411b289f2a", null ]
+];

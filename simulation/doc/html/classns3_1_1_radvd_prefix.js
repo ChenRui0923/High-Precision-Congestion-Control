@@ -1,0 +1,26 @@
+var classns3_1_1_radvd_prefix =
+[
+    [ "RadvdPrefix", "classns3_1_1_radvd_prefix.html#a8a9148382edebf588b47c5c80dd9bde7", null ],
+    [ "~RadvdPrefix", "classns3_1_1_radvd_prefix.html#a9469ddc1d829b6f5787ed3a28e12572f", null ],
+    [ "GetNetwork", "classns3_1_1_radvd_prefix.html#ae5a3880060b345d5f07b40487a2b0cf8", null ],
+    [ "GetPreferredLifeTime", "classns3_1_1_radvd_prefix.html#a80147da9676d74b42a1232b5c98a00f5", null ],
+    [ "GetPrefixLength", "classns3_1_1_radvd_prefix.html#a2de8eb5ce2e95dba534bc93081a50e1a", null ],
+    [ "GetValidLifeTime", "classns3_1_1_radvd_prefix.html#a3a251d47037452be9275b99feddf383c", null ],
+    [ "IsAutonomousFlag", "classns3_1_1_radvd_prefix.html#a50b52e0b462f101b17ca3454dedbde8e", null ],
+    [ "IsOnLinkFlag", "classns3_1_1_radvd_prefix.html#ab79e17c3810077715cf5ba233af700da", null ],
+    [ "IsRouterAddrFlag", "classns3_1_1_radvd_prefix.html#a8a7633ba97d224f50cb159dd635a7218", null ],
+    [ "SetAutonomousFlag", "classns3_1_1_radvd_prefix.html#a10ade142339bdca1644723c766a47f0a", null ],
+    [ "SetNetwork", "classns3_1_1_radvd_prefix.html#a2b0b703287e54710fca9939893ca5920", null ],
+    [ "SetOnLinkFlag", "classns3_1_1_radvd_prefix.html#a2289bca2c18719150e1758e8b4472f6f", null ],
+    [ "SetPreferredLifeTime", "classns3_1_1_radvd_prefix.html#a502a7b915cb138028f98d229981ffad7", null ],
+    [ "SetPrefixLength", "classns3_1_1_radvd_prefix.html#af96d11c4e6b54c8dc7e6fa3a579454c1", null ],
+    [ "SetRouterAddrFlag", "classns3_1_1_radvd_prefix.html#a71e548e78f32b97a0b3c504fad98a87c", null ],
+    [ "SetValidLifeTime", "classns3_1_1_radvd_prefix.html#a542b5619e6bce2258f5e7513749964c6", null ],
+    [ "m_autonomousFlag", "classns3_1_1_radvd_prefix.html#a74c95a5d31652c6fc997b7fd4079eedc", null ],
+    [ "m_network", "classns3_1_1_radvd_prefix.html#a84fa239cc120bf52f476416a010a40f5", null ],
+    [ "m_onLinkFlag", "classns3_1_1_radvd_prefix.html#a68f492279ddcc42a8b598fd856f834e8", null ],
+    [ "m_preferredLifeTime", "classns3_1_1_radvd_prefix.html#a4206d6b7beb2febcbb7783bc9cc6eacd", null ],
+    [ "m_prefixLength", "classns3_1_1_radvd_prefix.html#a664e8acbea39d87b88273062d060540c", null ],
+    [ "m_routerAddrFlag", "classns3_1_1_radvd_prefix.html#a14fddd31f06239439a29e6efa1b80d8a", null ],
+    [ "m_validLifeTime", "classns3_1_1_radvd_prefix.html#a9a6f2b50e4f17ad992eee2fdf1540e98", null ]
+];

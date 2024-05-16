@@ -1,0 +1,27 @@
+var classns3_1_1_ofdm_dcd_channel_encodings =
+[
+    [ "OfdmDcdChannelEncodings", "classns3_1_1_ofdm_dcd_channel_encodings.html#a126b44144ccdefc3ba6dcec507734a47", null ],
+    [ "~OfdmDcdChannelEncodings", "classns3_1_1_ofdm_dcd_channel_encodings.html#a0bcb8af0db0ac4cf3452ff30314bd3e4", null ],
+    [ "DoRead", "classns3_1_1_ofdm_dcd_channel_encodings.html#aeb468bf3215d835d6a8407d5d306c3ae", null ],
+    [ "DoWrite", "classns3_1_1_ofdm_dcd_channel_encodings.html#af90828c317b0f1372114b231cc160258", null ],
+    [ "GetBaseStationId", "classns3_1_1_ofdm_dcd_channel_encodings.html#a1176b0d5bdefba5212218dedea2e478f", null ],
+    [ "GetChannelNr", "classns3_1_1_ofdm_dcd_channel_encodings.html#aef867d6a3ffd9a49f2854050c4258c81", null ],
+    [ "GetFrameDurationCode", "classns3_1_1_ofdm_dcd_channel_encodings.html#a27f800fa403bbd148c4e6672f08ec281", null ],
+    [ "GetFrameNumber", "classns3_1_1_ofdm_dcd_channel_encodings.html#a98d1b04ec1a57298d54d4aa2142fea77", null ],
+    [ "GetRtg", "classns3_1_1_ofdm_dcd_channel_encodings.html#af587022e21417f52437cd2b205f7b62c", null ],
+    [ "GetSize", "classns3_1_1_ofdm_dcd_channel_encodings.html#aa114d471303c1413cda5d2537eaeaaab", null ],
+    [ "GetTtg", "classns3_1_1_ofdm_dcd_channel_encodings.html#a43fd4a4d0be2c79d990407ba640a1c53", null ],
+    [ "SetBaseStationId", "classns3_1_1_ofdm_dcd_channel_encodings.html#afc231a10398aba2f21dccf5b55765865", null ],
+    [ "SetChannelNr", "classns3_1_1_ofdm_dcd_channel_encodings.html#a526255a09fa137ca7d2dc0835953873a", null ],
+    [ "SetFrameDurationCode", "classns3_1_1_ofdm_dcd_channel_encodings.html#a6de921dc3258a81cd58f0b1759c68901", null ],
+    [ "SetFrameNumber", "classns3_1_1_ofdm_dcd_channel_encodings.html#aab1f965e351d4226c2b273341e0c0c57", null ],
+    [ "SetRtg", "classns3_1_1_ofdm_dcd_channel_encodings.html#aa16e6ff9f933c7a245cb7dbe4bb7ed52", null ],
+    [ "SetTtg", "classns3_1_1_ofdm_dcd_channel_encodings.html#a60e566a9f427b43f7bde549f3a6d827f", null ],
+    [ "m_baseStationId", "classns3_1_1_ofdm_dcd_channel_encodings.html#abf382f537e8c43b75989587dc623d64e", null ],
+    [ "m_channelNr", "classns3_1_1_ofdm_dcd_channel_encodings.html#a364d0f938f94b6b0abebd70c0150b464", null ],
+    [ "m_chnlSwitchFrameNr", "classns3_1_1_ofdm_dcd_channel_encodings.html#a87a70ee21def772db3e3869cfc3be7f2", null ],
+    [ "m_frameDurationCode", "classns3_1_1_ofdm_dcd_channel_encodings.html#a7061c3414c14bff6fe1f2ec7a2ea4d2b", null ],
+    [ "m_frameNumber", "classns3_1_1_ofdm_dcd_channel_encodings.html#aa0149a49b5de7796808bc89a1602342f", null ],
+    [ "m_rtg", "classns3_1_1_ofdm_dcd_channel_encodings.html#af8ca00fe9ad2c476fb9afafb07cdad0f", null ],
+    [ "m_ttg", "classns3_1_1_ofdm_dcd_channel_encodings.html#aa9d4e4da0c45006c879615575330780c", null ]
+];

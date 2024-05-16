@@ -1,0 +1,4 @@
+var classns3_1_1_itu_r1411_nlos_over_rooftop_propagation_loss_model_test_suite =
+[
+    [ "ItuR1411NlosOverRooftopPropagationLossModelTestSuite", "classns3_1_1_itu_r1411_nlos_over_rooftop_propagation_loss_model_test_suite.html#a8bea5e36411f8ae4e388a1afba99dee0", null ]
+];

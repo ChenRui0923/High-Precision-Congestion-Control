@@ -1,0 +1,27 @@
+var classns3_1_1_wimax_connection =
+[
+    [ "FragmentsQueue", "classns3_1_1_wimax_connection.html#acebd6aa95ab519f5e19bd1773f62e506", null ],
+    [ "WimaxConnection", "classns3_1_1_wimax_connection.html#a32c0bb269da15d24c412350cba7466f1", null ],
+    [ "~WimaxConnection", "classns3_1_1_wimax_connection.html#a1d37284ef870b2d78e1d86adf21c8858", null ],
+    [ "ClearFragmentsQueue", "classns3_1_1_wimax_connection.html#a819008b698dd34be127c294c2ec1a198", null ],
+    [ "Dequeue", "classns3_1_1_wimax_connection.html#a54b822cae000f9acd50c63f59219ab6a", null ],
+    [ "Dequeue", "classns3_1_1_wimax_connection.html#a9fe33b6d2de39b28ef1b1bde9e113d6b", null ],
+    [ "DoDispose", "classns3_1_1_wimax_connection.html#a0ed4866f095ff739f9abf4093c6d36f5", null ],
+    [ "Enqueue", "classns3_1_1_wimax_connection.html#a2f7f3bf452c58c3390a096e1b354a86f", null ],
+    [ "FragmentEnqueue", "classns3_1_1_wimax_connection.html#ae7d985915012a837359aa62413457045", null ],
+    [ "GetCid", "classns3_1_1_wimax_connection.html#a22540186bbe5e147236390df0232a797", null ],
+    [ "GetFragmentsQueue", "classns3_1_1_wimax_connection.html#adeb165ef2cb04d19edacf92d5c751cc6", null ],
+    [ "GetQueue", "classns3_1_1_wimax_connection.html#a5df7525db9277d05f62e3620f9ae4058", null ],
+    [ "GetSchedulingType", "classns3_1_1_wimax_connection.html#ab9e47477fd3905c1eb1b210483e0eaee", null ],
+    [ "GetServiceFlow", "classns3_1_1_wimax_connection.html#a536b522bad5b24a1cedbadfb2d9392f7", null ],
+    [ "GetType", "classns3_1_1_wimax_connection.html#a8858505fbb422d562753b3d7805db74e", null ],
+    [ "GetTypeStr", "classns3_1_1_wimax_connection.html#a7d022a080bafd61c5e7f68ac021761cc", null ],
+    [ "HasPackets", "classns3_1_1_wimax_connection.html#a5c8097833a9c9e34011f85684922932d", null ],
+    [ "HasPackets", "classns3_1_1_wimax_connection.html#ab6d4cb4de219cc2e9585037d1a5cba89", null ],
+    [ "SetServiceFlow", "classns3_1_1_wimax_connection.html#a9494f36649eee7785528efd34c492c9c", null ],
+    [ "m_cid", "classns3_1_1_wimax_connection.html#a89b058b93203233f3f9a8790c7ea7e89", null ],
+    [ "m_cidType", "classns3_1_1_wimax_connection.html#a855c085f5f7431cdd6d750fe49239467", null ],
+    [ "m_fragmentsQueue", "classns3_1_1_wimax_connection.html#ad3c9008071b97bc660d49c05d7279f95", null ],
+    [ "m_queue", "classns3_1_1_wimax_connection.html#a96fa093e7f190ca65d515206179c9faa", null ],
+    [ "m_serviceFlow", "classns3_1_1_wimax_connection.html#a1f584c9abac19d8efc5f9a34ac5306a8", null ]
+];

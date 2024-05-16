@@ -1,0 +1,122 @@
+\form#0:$+\infty$
+\form#1:$ \alpha e^{-\alpha x} $
+\form#2:$ \alpha = \frac{1}{mean} $
+\form#3:$ \alpha e^{-\alpha x} \quad x \in [0,b] $
+\form#4:$ 1/\alpha - b/(e^{\alpha \, b}-1) $
+\form#5:$x_m$
+\form#6:$ k \frac{x_m^k}{x^{k+1}}$
+\form#7:$x_m > 0$
+\form#8:$ k > 0$
+\form#9:$ x_m $
+\form#10:$ k $
+\form#11:$ x_m = mean \frac{k-1}{k}, k > 1$
+\form#12:$ \frac{k}{\lambda}\left(\frac{x}{\lambda}\right)^{k-1}e^{-\left(\frac{x}{\lambda}\right)^k} $
+\form#13:$ \lambda > 0$
+\form#14:$ mean = \lambda\Gamma\left(1+\frac{1}{k}\right) $
+\form#15:$ \Gamma $
+\form#16:$-\infty$
+\form#17:$ \frac{1}{\sigma\sqrt{2\pi}} e^{-\frac{(x-\mu)^2}{s\sigma^2}}$
+\form#18:$ mean = \mu $
+\form#19:$ variance = \sigma^2 $
+\form#20:$mean-bound$
+\form#21:$mean+bound$
+\form#22:$ \frac{1}{x\sigma\sqrt{2\pi}} e^{-\frac{(ln(x) - \mu)^2}{2\sigma^2}}$
+\form#23:$ mean = e^{\mu+\frac{\sigma^2}{2}} $
+\form#24:$ variance = (e^{\sigma^2}-1)e^{2\mu+\sigma^2}$
+\form#25:$ \mu $
+\form#26:$ \sigma $
+\form#27:$ \mu = ln(mean) - \frac{1}{2}ln\left(1+\frac{variance}{mean^2}\right)$
+\form#28:$ \sigma = \sqrt{ln\left(1+\frac{variance}{mean^2}\right)}$
+\form#29:$ x^{\alpha-1} \frac{e^{-\frac{x}{\beta}}}{\beta^\alpha \Gamma(\alpha)}$
+\form#30:$ mean = \alpha\beta $
+\form#31:$ variance = \alpha \beta^2$
+\form#32:$ \frac{x^{k-1} e^{-\frac{x}{\lambda}}}{\lambda^k (k-1)!}$
+\form#33:$ mean = k \lambda $
+\form#34:$ variance = k \lambda^2$
+\form#35:$ \alpha > 0 $
+\form#36:$ N \in \{1,2,3 \dots\}$
+\form#37:$ f(k; \alpha, N) = k^{-\alpha}/ H_{N,\alpha} $
+\form#38:$ H_{N,\alpha} = \sum_{m=1}^N m^{-\alpha} $
+\form#39:$ \alpha > 1 $
+\form#40:$ f(k; \alpha) = k^{-\alpha}/\zeta(\alpha) $
+\form#41:$ \zeta(\alpha) $
+\form#42:$ \sum_{n=1}^\infty n^{-\alpha} ) $
+\form#43:$x$
+\form#44:$(max - x$
+\form#45:$max$
+\form#46:$x'$
+\form#47:\[ x' = min + (max - x) , \]
+\form#48:$u$
+\form#49:\[ x = - mean * \log(u) \]
+\form#50:$(1 - u$
+\form#51:$1$
+\form#52:\[ x' = - mean * \log(1 - u), \]
+\form#53:\[ x = \frac{scale}{u^{\frac{1}{shape}}} \]
+\form#54:\[ scale = mean * (shape - 1.0) / shape . \]
+\form#55:\[ x' = \frac{scale}{{(1 - u)}^{\frac{1}{shape}}} , \]
+\form#56:\[ x = scale * {(-\log(u))}^{\frac{1}{shape}} \]
+\form#57:\[ x' = scale * {(-\log(1 - u))}^{\frac{1}{shape}} , \]
+\form#58:$u1$
+\form#59:$u2$
+\form#60:$x1$
+\form#61:$x2$
+\form#62:\begin{eqnarray*} v1 & = & 2 * u1 - 1 \\ v2 & = & 2 * u2 - 1 \\ w & = & v1 * v1 + v2 * v2 \\ y & = & \sqrt{\frac{-2 * \log(w)}{w}} \\ x1 & = & mean + v1 * y * \sqrt{variance} \\ x2 & = & mean + v2 * y * \sqrt{variance} . \end{eqnarray*}
+\form#63:$(1 - u1$
+\form#64:$(1 - u2$
+\form#65:$x1'$
+\form#66:$x2'$
+\form#67:\begin{eqnarray*} v1' & = & 2 * (1 - u1) - 1 \\ v2' & = & 2 * (1 - u2) - 1 \\ w' & = & v1' * v1' + v2' * v2' \\ y' & = & \sqrt{\frac{-2 * \log(w')}{w'}} \\ x1' & = & mean + v1' * y' * \sqrt{variance} \\ x2' & = & mean + v2' * y' * \sqrt{variance} , \end{eqnarray*}
+\form#68:\begin{eqnarray*} v1 & = & -1 + 2 * u1 \\ v2 & = & -1 + 2 * u2 \\ r2 & = & v1 * v1 + v2 * v2 \\ normal & = & v1 * \sqrt{\frac{-2.0 * \log{r2}}{r2}} \\ x & = & \exp{sigma * normal + mu} . \end{eqnarray*}
+\form#69:\begin{eqnarray*} v1' & = & -1 + 2 * (1 - u1) \\ v2' & = & -1 + 2 * (1 - u2) \\ r2' & = & v1' * v1' + v2' * v2' \\ normal' & = & v1' * \sqrt{\frac{-2.0 * \log{r2'}}{r2'}} \\ x' & = & \exp{sigma * normal' + mu} . \end{eqnarray*}
+\form#70:\[ x = \left\{ \begin{array}{rl} min + \sqrt{u * (max - min) * (mode - min)} &\mbox{ if $u <= (mode - min)/(max - min)$} \\ max - \sqrt{ (1 - u) * (max - min) * (max - mode) } &\mbox{ otherwise} \end{array} \right. \]
+\form#71:\[ mode = 3.0 * mean - min - max . \]
+\form#72:\[ x' = \left\{ \begin{array}{rl} min + \sqrt{(1 - u) * (max - min) * (mode - min)} &\mbox{ if $(1 - u) <= (mode - min)/(max - min)$} \\ max - \sqrt{ u * (max - min) * (max - mode) } &\mbox{ otherwise} \end{array} \right. \]
+\form#73:$ m - b/(e^{b/m}-1) $
+\form#74:$ H_{N,\alpha} = \sum_{n=1}^N n^{-\alpha} $
+\form#75:$Jitter\left\{P_N\right\} = \left|Delay\left\{P_N\right\} - Delay\left\{P_{N-1}\right\}\right|$
+\form#76:$ D $
+\form#77:$ z=0 $
+\form#78:$ (x,y,0) $
+\form#79:$ \rho $
+\form#80:$ S \subset D $
+\form#81:$ \frac{|S|}{|D|} $
+\form#82:\[ \alpha_n = \frac{2\pi n - \pi + \theta}{4M}, n=1,2, \ldots,M\]
+\form#83:\[ X(t)=X_c(t) + j X_s(t)\]
+\form#84:\[ X_c(t) = \frac{2}{\sqrt{M}}\sum_{n=1}^{M}\cos(\psi_n)\cos(\omega_d t\cos(\alpha_n)+\phi_n)\]
+\form#85:\[ X_s(t) = \frac{2}{\sqrt{M}}\sum_{n=1}^{M}\sin(\psi_n)\cos(\omega_d t\cos(\alpha_n)+\phi_n)\]
+\form#86:$\theta$
+\form#87:$\phi$
+\form#88:$\psi_n$
+\form#89:$[-\pi, \pi)$
+\form#90:$n$
+\form#91:$ \frac{P_r}{P_t} = \frac{A_r A_t}{d^2\lambda^2} $
+\form#92:$ A_{isotr.} = \frac{\lambda^2}{4\pi} $
+\form#93:$ \frac{P_r}{P_t} = \frac{\lambda^2}{(4 \pi d)^2} $
+\form#94:$ P_r = \frac{P_t G_t G_r \lambda^2}{(4 \pi d)^2 L}$
+\form#95:$ P_r $
+\form#96:$ P_t $
+\form#97:$ G_t $
+\form#98:$ G_r $
+\form#99:$ \lambda $
+\form#100:$ d $
+\form#101:$ L $
+\form#102:$ Pr = \frac{Pt * Gt * Gr * (ht^2 * hr^2)}{d^4 * L} $
+\form#103:$ dCross = \frac{(4 * pi * Ht * Hr)}{lambda} $
+\form#104:$ L = L_0 + 10 n log_{10}(\frac{d}{d_0})$
+\form#105:$ n $
+\form#106:$ d_0 $
+\form#107:$ L_0 $
+\form#108:\[ L = L_0 + 10 \cdot n_0 log_{10}(\frac{d}{d_0})\]
+\form#109:\[ \underbrace{0 \cdots\cdots}_{=0} \underbrace{d_0 \cdots\cdots}_{n_0} \underbrace{d_1 \cdots\cdots}_{n_1} \underbrace{d_2 \cdots\cdots}_{n_2} \infty \]
+\form#110:\[\displaystyle L = \begin{cases} 0 & d < d_0 \\ L_0 + 10 \cdot n_0 \log_{10}(\frac{d}{d_0}) & d_0 \leq d < d_1 \\ L_0 + 10 \cdot n_0 \log_{10}(\frac{d_1}{d_0}) + 10 \cdot n_1 \log_{10}(\frac{d}{d_1}) & d_1 \leq d < d_2 \\ L_0 + 10 \cdot n_0 \log_{10}(\frac{d_1}{d_0}) + 10 \cdot n_1 \log_{10}(\frac{d_2}{d_1}) + 10 \cdot n_2 \log_{10}(\frac{d}{d_2})& d_2 \leq d \end{cases}\]
+\form#111:$ d_0, d_1, d_2 $
+\form#112:$ n_0, n_1, n_2 $
+\form#113:\[ p(x; m, \omega) = \frac{2 m^m}{\Gamma(m) \omega^m} x^{2m - 1} e^{-\frac{m}{\omega} x^2} = 2 x \cdot p_{\text{Gamma}}(x^2, m, \frac{m}{\omega}) \]
+\form#114:$ m $
+\form#115:$ \omega $
+\form#116:\[ \underbrace{0 \cdots\cdots}_{m_0} \underbrace{d_1 \cdots\cdots}_{m_1} \underbrace{d_2 \cdots\cdots}_{m_2} \infty \]
+\form#117:$ g: F \in {\sf R\hspace*{-0.9ex}\rule{0.15ex}{1.5ex}\hspace*{0.9ex}}^N \rightarrow {\sf R\hspace*{-0.9ex}\rule{0.15ex}{1.5ex}\hspace*{0.9ex}} $
+\form#118:$ g(F) $
+\form#119:$ F $
+\form#120:$ F$
+\form#121:$\int_F g(f) df $
