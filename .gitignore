@@ -1,0 +1,15 @@
+simulation/doc/
+simulation/build/
+
+
+# Compiled Dynamic libraries
+*.dll
+*.dylib
+*.so
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
