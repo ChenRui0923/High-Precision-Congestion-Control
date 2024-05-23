@@ -1,0 +1,21 @@
+# File folders
+simulation/doc/
+simulation/build/
+.vscode/
+simulation/mix
+
+# Compiled Dynamic libraries
+*.dll
+*.dylib
+*.so
+*.obj
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# exe
+trace_reader
+
