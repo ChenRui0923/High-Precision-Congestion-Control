@@ -1,6 +1,8 @@
+# File folders
 simulation/doc/
 simulation/build/
-
+.vscode/
+simulation/mix
 
 # Compiled Dynamic libraries
 *.dll
@@ -13,3 +15,5 @@ simulation/build/
 *.o
 *.obj
 
+# exe
+trace_reader
