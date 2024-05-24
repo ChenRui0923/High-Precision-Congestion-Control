@@ -3,12 +3,14 @@ simulation/doc/
 simulation/build/
 .vscode/
 simulation/mix
+simulation/.waf-1.7.11-edc6ccb516c5e3f9b892efc9f53a610f
 
 # Compiled Dynamic libraries
 *.dll
 *.dylib
 *.so
 *.obj
+*.pyc
 
 # Compiled Object files
 *.slo
