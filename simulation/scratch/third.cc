@@ -694,20 +694,20 @@ int main(int argc, char *argv[])
 	flowf.open(flow_file.c_str());
 	tracef.open(trace_file.c_str());
 	uint32_t node_num, switch_num, link_num, trace_num;
-	topof >> node_num >> switch_num >> link_num;
-	flowf >> flow_num;
-	tracef >> trace_num;
+	topof >> node_num >> switch_num >> link_num;    // 66 1 65
+	flowf >> flow_num;								// 2
+	tracef >> trace_num;							// 348
 
 
 	//n.Create(node_num);
 	std::vector<uint32_t> node_type(node_num, 0);
-	for (uint32_t i = 0; i < switch_num; i++)
+	for (uint32_t i = 0; i < switch_num; i++)       //创建一个node_type向量，以topology.txt为例，其中nodetype[0] = 1, 其他为0
 	{
 		uint32_t sid;
 		topof >> sid;
 		node_type[sid] = 1;
 	}
-	for (uint32_t i = 0; i < node_num; i++){
+	for (uint32_t i = 0; i < node_num; i++){		//创建相应的node和switchnode
 		if (node_type[i] == 0)
 			n.Add(CreateObject<Node>());
 		else{
@@ -783,7 +783,7 @@ int main(int argc, char *argv[])
 		// Note: this should be before the automatic assignment below (ipv4.Assign(d)),
 		// because we want our IP to be the primary IP (first in the IP address list),
 		// so that the global routing is based on our IP
-		NetDeviceContainer d = qbb.Install(snode, dnode);
+		NetDeviceContainer d = qbb.Install(snode, dnode);			// NetDeviceContainer 就类似于网卡
 		if (snode->GetNodeType() == 0){
 			Ptr<Ipv4> ipv4 = snode->GetObject<Ipv4>();
 			ipv4->AddInterface(d.Get(0));
@@ -1018,6 +1018,8 @@ int main(int argc, char *argv[])
 	Simulator::Destroy();
 	NS_LOG_INFO("Done.");
 	fclose(trace_output);
+	fclose(pfc_file);
+	fclose(fct_output);
 
 	endt = clock();
 	std::cout << (double)(endt - begint) / CLOCKS_PER_SEC << "\n";
