@@ -2,7 +2,9 @@
 simulation/doc/
 simulation/build/
 .vscode/
-simulation/mix
+simulation/mix/
+simulation/.waf*/
+simulation/waf-tools/
 
 # Compiled Dynamic libraries
 *.dll
@@ -14,6 +16,7 @@ simulation/mix
 *.lo
 *.o
 *.obj
+*.pyc
 
 # exe
 trace_reader
